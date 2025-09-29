@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Evaluator.core\Evaluator.core.csproj" />
-  </ItemGroup>
-
 </Project>
